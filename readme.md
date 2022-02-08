@@ -15,3 +15,6 @@ All i'm doing is sending the request to the Instagram api with the CSRF token in
 ## Security
 As it is completely clear in the source code i do not collect any data of your extension's usage or either your username or password.
 The only thing you shall be aware of and look out for is the rate limit on the Instagram's api which might cause your account to get action blocked ( which i have not experienced yet myself ). So i suggest you not to use it on a page with story views higher than 10k or if something happens it's totally on you.
+
+## Disclaimer
+If anything happens to your account by any chance i'm not responsible for it because i've mentioned above how the extension works and also have warned you not to use on a page with high number of story viewers. So if anything happens It's totally on you!
