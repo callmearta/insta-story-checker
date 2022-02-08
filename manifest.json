@@ -1,0 +1,33 @@
+{
+    "name": "InstaStoryChecker",
+    "description": "InstaStoryChecker",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [{
+        "matches": ["https://instagram.com/*", "https://*.instagram.com/*", "http://instagram.com/*", "http://*.instagram.com/*"],
+        "css": ["styles.css"],
+        "js": ["content-script.js"]
+    }],
+    "web_accessible_resources": [{
+        "resources": ["script.js"],
+        "matches": ["https://instagram.com/*", "https://*.instagram.com/*", "http://instagram.com/*", "http://*.instagram.com/*"]
+    }],
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+        "default_icon": {
+            "16": "/images/favicon_16.png",
+            "32": "/images/favicon_32.png",
+            "48": "/images/favicon_48.png",
+            "128": "/images/favicon_128.png"
+        }
+    },
+    "icons": {
+        "16": "/images/favicon_16.png",
+        "32": "/images/favicon_32.png",
+        "48": "/images/favicon_48.png",
+        "128": "/images/favicon_128.png"
+    }
+}
