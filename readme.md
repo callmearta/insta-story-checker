@@ -1,3 +1,5 @@
+![InstaStoryChecker](https://github.com/callmearta/insta-story-checker/images/starting-image.png)
+
 ## InstaStoryChecker - Search in your story viewers
 Have you always wanted to check if a certain person has checked out your story or not and you had to scroll through that long list of story viewers while keeping an eye for their name in the list? Me too! 
 So i did myself a favor and created this simple chrome extension to do the job for me and all left for me to do is to enter the name of that certain person.
