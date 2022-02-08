@@ -1,4 +1,6 @@
-![InstaStoryChecker](https://raw.githubusercontent.com/callmearta/insta-story-checker/Main/images/starting-image.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/callmearta/insta-story-checker/Main/images/starting-image.png" alt="Insta Story Checker"/>
+</p>
 
 ## InstaStoryChecker - Search in your story viewers
 Have you always wanted to check if a certain person has checked out your story or not and you had to scroll through that long list of story viewers while keeping an eye for their name in the list? Me too! 
